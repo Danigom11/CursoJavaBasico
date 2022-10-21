@@ -1,4 +1,4 @@
-package com.company;
+package com.company.aconceptos;
 
 public class ByeWorld {
     // atajo: main

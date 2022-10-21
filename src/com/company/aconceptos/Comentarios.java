@@ -1,4 +1,4 @@
-package com.company;
+package com.company.aconceptos;
 
 /**
  * Clase principal punto de entrada aplicación

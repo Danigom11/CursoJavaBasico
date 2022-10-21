@@ -1,4 +1,4 @@
-package com.company;
+package com.company.aconceptos;
 
 public class HelloWorld {
     // Public o accesible, static es que pertenece a esta clase, void que no devuelve nada

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.aconceptos;
 
 // Public es que sea accesible
 public class CursoJavaBasico {
