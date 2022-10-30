@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="140a51ca-efb0-4a9f-855c-c825ad57a253" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Vectores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/BigsDatas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/LindedsLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/ArraysLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/ArraysLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Vectores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Vectores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="com.company.dobjetos.clases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Vectores">
+  <component name="RunManager" selected="Application.BigsDatas">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.etiposdatosavanzados.Arrays" />
       <module name="Curso Java Basico" />
@@ -68,12 +68,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.dobjetos.clases.Main" />
+    <configuration name="ArraysLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.etiposdatosavanzados.ArraysLists" />
       <module name="Curso Java Basico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.dobjetos.clases.*" />
+          <option name="PATTERN" value="com.company.etiposdatosavanzados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigsDatas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.etiposdatosavanzados.BigsDatas" />
+      <module name="Curso Java Basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.etiposdatosavanzados.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.dobjetos.sininterfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.dobjetos.sininterfaces.Main" />
-      <module name="Curso Java Basico" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.dobjetos.sininterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigsDatas" />
+        <item itemvalue="Application.ArraysLists" />
         <item itemvalue="Application.Vectores" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.com.company.dobjetos.sininterfaces.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666772739671</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java">
+      <created>1667138011238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667138011238</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

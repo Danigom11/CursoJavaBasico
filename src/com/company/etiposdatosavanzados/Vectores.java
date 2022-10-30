@@ -28,7 +28,7 @@ public class Vectores {
 
 
         // Tamaño es los elementos que le he puesto
-        // Capacidad es mínimo 10 y se amplía automáticamente de diez en diez
+        // Capacidad es mínimo 10 y se amplía automáticamente el doble de lo que tenga
         System.out.println("Vector de tamaño: " + vector.size() + " y capacidad: " + vector.capacity());
 
         // El vector, al ampliar su tamaño, hace un uso mayor de la memoria, ya que se rehace cada vez que se amplía
