@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="140a51ca-efb0-4a9f-855c-c825ad57a253" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/BigsDatas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/LindedsLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/ArraysLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/ArraysLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Vectores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Vectores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Mapas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/etiposdatosavanzados/Mapas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <recent name="com.company.dobjetos.clases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigsDatas">
+  <component name="RunManager" selected="Application.Mapas">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.etiposdatosavanzados.Arrays" />
       <module name="Curso Java Basico" />
@@ -94,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.etiposdatosavanzados.Strings" />
+    <configuration name="Mapas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.etiposdatosavanzados.Mapas" />
       <module name="Curso Java Basico" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mapas" />
         <item itemvalue="Application.BigsDatas" />
         <item itemvalue="Application.ArraysLists" />
         <item itemvalue="Application.Vectores" />
         <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667138011238</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java">
+      <created>1667149431318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667149431318</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
