@@ -16,7 +16,8 @@ public class Eventos {
         // dar a new, swing ui designer, y gui form
 
         // Para responder a un evento hay que hacerlo con código
-        // Se debe implementar el patrón observador. Listener
+        // Se debe implementar el patrón observador. Observer
+
 
 
     }
